@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: url("https://img.freepik.com/free-vector/realistic-glassmorphism-background_52683-87286.jpg?w=1800&t=st=1674176791~exp=1674177391~hmac=cf37344917884f3071fd540db1ccb3ded9adc158985e27ff2e9d1342683a2a98"); */
+  background: url("https://media.istockphoto.com/id/1284691550/vector/blue-abstract-geometric-dynamic-shape-paper-layers-subtle-background-vector.jpg?s=612x612&w=0&k=20&c=8a0N0F6hcHc08o2aZgTZdreUMhTxS24Zp61KgdQzGgM=");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.neo {
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow:  10px 10px 40px rgba(0,0,0,0.4),
+             -10px -10px 30px rgba(255,255,255,0.4);
+  backdrop-filter: blur(10px);
+  border: 1px solid #0000003b;
+}
+
+.neo2 {
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  border: 1px solid #ffffff73;
+}
